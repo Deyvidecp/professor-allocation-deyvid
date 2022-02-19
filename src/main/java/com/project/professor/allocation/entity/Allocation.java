@@ -28,7 +28,7 @@ public class Allocation {
 	private Long courseId;
 	private Long professorId;
 	
-	
+	//deyvid
 	public Long getId() {
 		return id;
 	}
